@@ -1,7 +1,10 @@
 <h1>⚔️ WarOfCards </h1>
 
-<h1 align="center">Hi 👋, I'm Aristotelis Pallasidis</h1>
-<h3 align="center">A passionate software developer from Thessaloniki, Greece</h3>
+
+<hr>
+
+<h1 align="left">Hi 👋, I'm Aristotelis Pallasidis</h1>
+<h4 align="left">A passionate software developer from Thessaloniki, Greece</h4>
 
 - 🌱 I’m currently learning **HTML5, CSS, JavaScript**
 
