@@ -1,0 +1,134 @@
+* {
+    box-sizing: border-box;
+}
+
+.clearfix::after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+body {
+    font-family: 'Sora', sans-serif;    text-align: center;
+    background-color: rgb(249, 249, 249);
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+button {
+    background-color: #f08282;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    outline: none;
+    padding: 10px 30px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: color 100ms;
+    vertical-align: baseline;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+button:hover, button:focus {
+    background-color: #ea4c4c;
+}
+
+section {
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+
+.first, .second   {
+    width: 50%;
+    float: left;
+}
+
+#winner1, #winner2 {
+    font-weight: 600;
+    font-size: 26px;
+    color: rgb(59, 219, 54);
+}
+
+@media screen and (max-width: 768px){
+    img {
+        height: 180px;
+        width: auto;
+    }
+
+    button {
+        margin-top: 100px;
+    }
+
+    #winner1, #winner2 {
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 17px;
+    }
+
+    h2 {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    img {
+        height: 100px;
+        width: auto;
+        margin-bottom: 10px;
+    }
+
+    button {
+        margin-top: 0px;
+        height: 30px;
+        font-size: 10px;
+    }
+
+    #winner1,
+    #winner2 {
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 17px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    .first,
+    .second {
+        width: 100%;
+        float: left;
+    }
+
+    
+
+}
+
