@@ -7,15 +7,13 @@
 <h4 align="left">A passionate software developer from Thessaloniki, Greece</h4>
 
 - 🌱 I’m currently learning **HTML5, CSS, JavaScript**
-
 - 📫 How to reach me **send me a message on social**
-
 - ⚡ Fun fact **I am a Minimalist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aristotleofcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aristotleofcode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aristotelispallasidis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aristotelispallasidis/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aristotelispallasidis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aristotelispallasidis/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/da" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="da" height="30" width="40" /></a>
 </p>
 
