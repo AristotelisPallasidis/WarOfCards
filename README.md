@@ -1,9 +1,11 @@
-<h1>⚔️ WarOfCards </h1>
+## ⚔️ WarOfCards
 
 This is a card game comparison created with JavaScript HTML CSS and the API of  <a href="https://www.deckofcardsapi.com/"> deckofcardsapi</a>.
 
-🔨 How it works
+##🔨 How it works
 You click the red fight button, the API generate 2 random cards that they will be compared. The highest value card WINS.
+
+Highest ---> Lowest
 <ol>
   <li>A</li>
   <li>K</li>
@@ -21,7 +23,7 @@ You click the red fight button, the API generate 2 random cards that they will b
 </ol>
 
 
-📚 Learning Objectives
+## 📚 Learning Objectives
 - HTML5
 - CSS
 - JavaScript
