@@ -2,7 +2,7 @@
 
 This is a card game comparison created with JavaScript HTML CSS and the API of  <a href="https://www.deckofcardsapi.com/"> deckofcardsapi</a>.
 
-##🔨 How it works
+## 🔨 How it works
 You click the red fight button, the API generate 2 random cards that they will be compared. The highest value card WINS.
 
 Highest ---> Lowest
