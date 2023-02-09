@@ -3,8 +3,8 @@
 This is a card game comparison created with JavaScript HTML CSS and the API of <a href="https://www.deckofcardsapi.com/">deckofcardsapi</a>.
 
 ## 🔨 How it works
-You click the red fight button, the API generate 2 random cards that they will be compared.
-The highest value card WINS.
+This is a two player card game were you and your friend choose who is player 1 and 2. After you choose you click the red "fight" button, the API generate 2 random cards that they will be compared.
+The highest value card WINS. The ranking of cards you can see it below.
 
 ## ♦️ Card Ranking from Highest to Lowest
 <ol>
